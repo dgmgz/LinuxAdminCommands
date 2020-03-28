@@ -1,0 +1,19 @@
+-- DIRECTORY --
+
+1. __pwd__
+
+--pwd
+Print the full filename of the current working directory.
+
+2. __ls__
+
+--ls
+When used with no options and arguments, ls displays a list of the names of all files in the current working directory.
+
+--ls -l
+The -l ( lowercase L) option causes ls to print files in a long listing format.
+
+--ls -la
+Display all files including the hidden files.
+
+
