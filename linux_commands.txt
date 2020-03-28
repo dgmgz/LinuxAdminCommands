@@ -17,3 +17,30 @@ The -l ( lowercase L) option causes ls to print files in a long listing format.
 Display all files including the hidden files.
 
 
+3. __touch__
+
+--touch 
+It is used to create a file without any content. The file created using touch command is empty. 
+
+4. __cat__
+
+-- cat
+View contain of file.
+
+-- cat f1 f2
+View Contents of Multiple Files in terminal
+
+-- cat >f1
+Create a File with Cat Command
+
+--cat f1 | more
+--cat f1 | less
+Use Cat Command with More & Less Options.
+If file having large number of content that won’t fit in output terminal and screen scrolls up very fast, we can use parameters more and less with cat command as show above.
+
+--cat -n f1
+With -n option you could see the line numbers of a file song.txt in the output terminal.
+
+
+
+
